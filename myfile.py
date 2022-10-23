@@ -115,5 +115,5 @@
 #     print('Error opening file')
 
 # price = 49
-txt = "The price is {price} dollars"
-print(txt.format(price=34))
+# txt = "The price is {price} dollars"
+# print(txt.format(price=34))
